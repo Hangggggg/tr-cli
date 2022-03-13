@@ -1,2 +1,2 @@
 # Tr-cli
-Tr-cli
+tr-cli

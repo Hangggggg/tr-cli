@@ -1,0 +1,46 @@
+{
+  "usedTool": "npm",
+  "optionalTools": [
+    "npm",
+    "cnpm",
+    "yarn"
+  ],
+  "essentialPackages": {
+    "dependencies": [
+      "@hangteam/tr"
+    ],
+    "devDependencies": [
+      "@hangteam/tr-cli-service"
+    ]
+  },
+  "addableFrames": {
+    "sass": {
+      "devDependencies": [
+        "sass",
+        "sass-loader"
+      ]
+    },
+    "less": {
+      "devDependencies": [
+        "less",
+        "less-loader"
+      ]
+    },
+    "axios": {
+      "dependencies": [
+        "axios"
+      ]
+    },
+    "hf": {
+      "devDependencies": [
+        "@hangteam/hf"
+      ]
+    },
+    "typescript": {
+      "devDependencies": [
+        "typescript",
+        "ts-loader"
+      ]
+    }
+  }
+}

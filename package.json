@@ -1,0 +1,30 @@
+{
+  "name": "@hangteam/tr-cli",
+  "version": "0.1.0",
+  "description": "tr-cli",
+  "keywords": [
+    "tr-cli",
+    "tr"
+  ],
+  "bin": {
+    "tr": "bin/index.js"
+  },
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
+  },
+  "author": "Hang",
+  "license": "MIT",
+  "homepage": "https://github.com/Hangggggg/tr-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hangggggg/tr-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hangggggg/tr-cli/issues"
+  },
+  "dependencies": {
+    "commander": "^9.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
