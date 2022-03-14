@@ -2,12 +2,12 @@
   "name": "",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
   "main": "index.js",
   "scripts": {
     "serve": "tr-cli-service serve",
     "build": "tr-cli-service build"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT"
 }
